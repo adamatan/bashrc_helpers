@@ -5,8 +5,8 @@
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
-source $DIR/ls_colors.sh
-source $DIR/aliases.sh
-source $DIR/prompt.sh
-
+source $DIR/commands/ls_colors.sh
+source $DIR/aliases/aliases.sh
+source $DIR/prompt/prompt.sh
+source $DIR/history/history_settings.sh
 
