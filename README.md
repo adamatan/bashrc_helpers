@@ -3,6 +3,11 @@ bashrc
 
 Useful .bashrc addons.
 
+Version
+-------
+
+This is a Omega version. That's the vesion that comes **before** Alpha, if Greek alphabet was circular.
+
 Usage
 -----
 
