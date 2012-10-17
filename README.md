@@ -1,0 +1,4 @@
+bashrc
+======
+
+Useful .bashrc addons
