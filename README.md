@@ -6,7 +6,7 @@ Useful .bashrc addons.
 Usage
 -----
 
-Include `helpers.sh` in your bash rc:
+Include `helpers.sh` in your `.bashrc`:
 
     source bashrc_helpers/helpers.sh
 
