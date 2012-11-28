@@ -7,6 +7,6 @@ DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 . $DIR/prompt_common.sh
 
-SERVER_NAME="$BBlue""$SERVER_NAME""$Color_Off"
+SERVER_NAME="$Cyan""$SERVER_NAME""$Color_Off"
 
-PS1="\n\[\033[1;34m\]\342\226\210\342\226\210 \u @ $SERVER_NAME $BBlue \w $Color_Off  \n\[\033[0;36m\]\342\226\210\342\226\210 \d \t $ \[\033[0;39m\]"
+PS1="\n\[\033[1;34m\]\342\226\210\342\226\210 \u @ $SERVER_NAME""$BBlue"" \w""$Color_Off  \n\[\033[0;36m\]\342\226\210\342\226\210 \d \t $ \[\033[0;39m\]"

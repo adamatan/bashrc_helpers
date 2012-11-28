@@ -5,3 +5,4 @@
 
 alias gerp='grep'  		     # Helps with Dislexya
 alias rsyn='rsync -avzr --progress'  # I want this for every remote sync
+alias wgeto='wget -qO- '
